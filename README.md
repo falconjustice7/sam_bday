@@ -7,6 +7,4 @@ all the files seem to be taken as one whole root file by the js file and html sc
 
 log-3 tried using git hib io same issue need to fix this asap(22 march 3:30 am)
 
-wished her bday through whatsapp message 
-
 log-4 try to upload the repo again and try(29 march 1:44 am)
